@@ -1,0 +1,3 @@
+cd /home/grade/codeAcademy/project/
+rm -f house{6..8}
+ls

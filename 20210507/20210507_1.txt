@@ -1,0 +1,4 @@
+mkdir project
+cd project
+touch house{1..9}
+ls h*e[1-9]

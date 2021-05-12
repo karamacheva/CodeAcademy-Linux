@@ -1,0 +1,4 @@
+cp house1 /home/ekaterina/project/houses/
+cp house5 /home/ekaterina/project/houses/
+cd /home/grade/codeAcademy/project/houses/
+ls

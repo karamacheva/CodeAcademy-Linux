@@ -1,0 +1,11 @@
+cd project
+mkdir houses
+touch /home/ekaterina/project/houses/bungalow.txt
+cd houses
+mkdir doors
+touch /home/ekaterina/project/houses/doors/bifold.txt
+cd /home/ekaterina/project
+mkdir outdoors
+cd outdoors
+mkdir vegetation
+touch /home/ekaterina/project/outdoors/vegetation/landscape.txt
