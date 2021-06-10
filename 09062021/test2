@@ -1,0 +1,10 @@
+#! /bin/bash
+
+if [ -z $1 ]
+then 
+	echo NO arguments of command line 
+	read VAR
+else
+	VAR=$1
+fi
+echo the following filenames have been provided : $VAR
